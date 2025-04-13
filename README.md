@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm working on Flork meme,<br>I'm a Web developer and Telegram Robot designer, <br>I develop the back ends of websites with Django-Drf-Rest Api, I'm also <br>able to work with templates.<br>I'm a python developer and I can work with many libraries, I have many <br>portfolio for Telegram robots.<br>I'm able to work with databases too.<br>I'm currently learning Rust language , learning and developing is kinda <br>my passion.
+Hi there. I'm a passionate developer who absolutely loves coding and everything related to it.  
+I'm proficient in Python and have hands-on experience with popular web frameworks like Django, Flask, and FastAPI.  
+I'm also well-versed in Django REST Framework for building robust APIs.
+
+I can also build Telegram bots to automate tasks, create interactive experiences, or just have some fun with code.
+
+Currently, I'm diving into Rust to expand my system programming skills.  
+While backend development is my main focus, I can also work with HTML and CSS when needed.
+
+Outside of coding, I'm also a chess enthusiast and play at a competitive level.  
+Chess helps me sharpen my strategic thinking and stay focused—skills that I bring into my programming as well.
+
+I enjoy learning new technologies, solving problems, and building cool stuff with code.
 
 
 ## 🌐 Socials:
